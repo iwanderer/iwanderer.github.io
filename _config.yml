@@ -16,7 +16,7 @@ avatar: https://github.com/iwanderer/iwanderer.github.io/blob/master/images/8521
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:iwanderer.lee@gmail.com
+  email: iwanderer.lee@gmail.com
   facebook:
   flickr:
   github: https://github.com/iwanderer
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://iwanderer.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
